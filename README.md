@@ -54,7 +54,7 @@ Ce projet, réalisé dans le cadre du concours **Astro Pi – Mission Zero**, a 
 ## 📈 Exemple de résultat
 Vitesse estimée : 7.7285 km/s
 
-Résultat exporté dans le fichier `result.txt`.
+Anciens Résultats exporté dans le dossier `result`.
 
 ---
 
