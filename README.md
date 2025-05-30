@@ -9,8 +9,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python">
-  <img src="https://img.shields.io/github/last-commit/your-username/astro-pi-speed" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/top/your-username/astro-pi-speed" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/AIystra/Astro-Pie" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/AIystra/Astro-Pie" alt="Top Language">
   <img src="https://img.shields.io/badge/Camera-High%20Quality%20Raspberry%20Pi-critical" alt="Camera Type">
 </div>
 
