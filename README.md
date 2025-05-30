@@ -65,7 +65,7 @@ pip install opencv-python exif
     Python ≥ 3.9
 
     Modules : cv2, exif, datetime, math, time, picamzero
-
+```
 🛰️ Hypothèses et limites
 
     Le GSD utilisé est une estimation moyenne pour l'altitude de l’ISS.
@@ -77,4 +77,4 @@ pip install opencv-python exif
 🤝 Remerciements
 
 Merci à la Fondation Raspberry Pi et à l’ESA pour ce concours qui donne l’opportunité aux jeunes de contribuer à la science spatiale à travers le code. 🚀
-<p align="center"> <em>Fait avec curiosité et rigueur scientifique par Mr.Crabs 🦀</em> </p> ```
+<p align="center"> <em>Fait avec curiosité et rigueur scientifique par Mr.Crabs 🦀</em> </p> 
